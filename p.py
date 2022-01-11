@@ -8,11 +8,11 @@ import time
 buttonList = [
     {
         "label": "Damos Discord",
-        "url": "https://discord.gg/A2j5ZKqZtc"
+        "url": "https://discord.io/Gamesclub"
     },
     {
-        "label": "Doms Discord",
-        "url": "https://discord.gg/gU74cQ2B2k"
+        "label": "damos site",
+        "url": "https://damogames.ga"
     }
 ]
 
